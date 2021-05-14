@@ -2,7 +2,7 @@
 - 👀 I’m interested in using code 	
 - 🌱 I’m currently learning C#
 - 💞️ I’m not looking collaborate 		
-- 📫 For reach me loockin my web site
+- 📫 For reach me go in my web site
 
 <!---
 p-hoenix/p-hoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
